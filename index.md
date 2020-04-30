@@ -1,10 +1,37 @@
-# &#128129; 안녕하세요. 웹 개발자 정지예입니다.
+# &#128129; 안녕하세요 ! 정지예입니다.
+
+### 제 포트폴리오를 열람해 주셔서 감사합니다.
+
+### 저는 도전하는 용기를 지니고 지속적인 성장을 지향합니다.
+
+<br>
+
+#### BackEnd Skill
+
+- Java
+- Python
+- Oracle
+- MySql
+
+---
+
+#### FrontEnd Skill
+
+- JAVASCRIPT
+- HTML
+- CSS
+
+---
+
+- React.js
+- Bootstrap
+- antd.js
 
 <br>
 
 # Contact
 
-## &#9993; brooke1994@naver.com
+## &#9993; ([brooke1994@naver.com](https://blog.naver.com/brooke1994))
 
 ## &#128222; 01077237077
 
